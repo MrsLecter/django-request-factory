@@ -1,0 +1,9 @@
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.index, name='index'),
+    path('get/', views.getInfo,  name='getinfo'),
+    path('post/', views.postInfo, name='postinfo'),
+    path('redirect/', views.toRedirect,  name='redirect')
+]
