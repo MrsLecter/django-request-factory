@@ -1,0 +1,122 @@
+[
+    {
+        "model": "django_fixtures.basket",
+        "pk": 1,
+        "fields":{
+            "name": "itemname1",
+            "description": "item1_desc",
+            "category": "cat1",
+            "price": 1000,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 2,
+        "fields":{
+            "name": "itemname2",
+            "description": "item2_desc",
+            "category": "cat1",
+            "price": 1200,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 3,
+        "fields":{
+            "name": "itemname3",
+            "description": "item3_desc",
+            "category": "cat2",
+            "price": 1300,
+            "presence": false,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 4,
+        "fields":{
+            "name": "itemname4",
+            "description": "item4_desc",
+            "category": "cat2",
+            "price": 1400,
+            "presence": false,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 5,
+        "fields":{
+            "name": "itemname5",
+            "description": "item5_desc",
+            "category": "cat3",
+            "price": 1100,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 6,
+        "fields":{
+            "name": "itemname6",
+            "description": "item6_desc",
+            "category": "cat3",
+            "price": 1120,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 7,
+        "fields":{
+            "name": "itemname7",
+            "description": "item7_desc",
+            "category": "cat3",
+            "price": 1120,
+            "presence": false,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 8,
+        "fields":{
+            "name": "itemname8",
+            "description": "item8_desc",
+            "category": "cat4",
+            "price": 1250,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 9,
+        "fields":{
+            "name": "itemname9",
+            "description": "item9_desc",
+            "category": "cat4",
+            "price": 2500,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    },
+    {
+        "model": "django_fixtures.basket",
+        "pk": 10,
+        "fields":{
+            "name": "itemname10",
+            "description": "item10_desc",
+            "category": "cat4",
+            "price": 1500,
+            "presence": true,
+            "created":"2021-07-13T00:00:00.000+00:00"
+        }
+    }
+]
